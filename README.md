@@ -1,2 +1,0 @@
-# Videojuego-WebGlL
- Proyecto Final
